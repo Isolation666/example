@@ -1,2 +1,2 @@
-**The Ultimate Guide to Using Git**
+**The Easy Ultimate Guide to Using Git**
 For The Impatient.
